@@ -1,4 +1,4 @@
-# Add To Cart App
+# Shopping Cart
 This is a simple Add to Cart website built using React. It allows users to add items to their cart, calculate the total price, increment or decrement the quantity of items, and delete items from the cart.
 ## Features
 - Add items to the cart
@@ -7,8 +7,49 @@ This is a simple Add to Cart website built using React. It allows users to add i
 - Delete items from the cart
 ## Technologies Used
 - React
-- Redux
+- Redux/Toolkit
 - HTML/SASS
+
+# Shopping Cart
+
+![Project Screenshot](https://github.com/abhinav2-3/Assets/blob/master/Screenshot%20(124).png?raw=true)
+![Project Screenshot](https://github.com/abhinav2-3/Assets/blob/master/Screenshot%20(123).png?raw=true)
+![Project Screenshot](https://github.com/abhinav2-3/Assets/blob/master/Screenshot%20(126).png?raw=true)
+![Project Screenshot](https://github.com/abhinav2-3/Assets/blob/master/Screenshot%20(125).png?raw=true)
+
+## Description
+
+Provide a brief description of your project here. Include its purpose, main features, and any other relevant information.
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/abhinav2-3/your-repo-name.git`
+2. Navigate to the project directory: `cd your-repo-name`
+3. Install dependencies: `npm install`
+
+## Usage
+
+Provide instructions on how to use your project. Include any prerequisites, configuration steps, and examples.
+
+## Technologies Used
+
+List the technologies/frameworks/languages used in your project.
+
+## Contributing
+
+Explain how others can contribute to your project. Include guidelines for pull requests and code style.
+
+## License
+
+State the license under which your project is released.
+
+## Acknowledgements
+
+Give credit to the individuals or organizations that helped or inspired you during the development of your project.
+
+## Contact
+
+Provide your contact information for inquiries or further assistance.
 
 ### `npm start`
 
